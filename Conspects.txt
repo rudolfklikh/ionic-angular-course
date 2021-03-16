@@ -1,0 +1,12 @@
+What's a WebView :
+
+	* Native App which only renders a WebView widget that loads your web app.
+
+( You can build mobile apps with cross-platform technologies ( like HTML , JS , CSS ) with other technologies , too.
+For example React Native and Flutter would be popular alternatives.
+
+RoadMap:
+	Angular Refresher -> Ionic Component Basics -> Ionic + Angular -> Building Native Apps with Capacitor -> Debugging Ionic Apps ->
+	Navigation & Routing -> Component Overview -> Styling & Theming -> Handling User Input -> Managing State -> Sending Http Requests ->
+	Adding Google Maps -> Native Device Features ( Camera, Location ) -> Authentication -> Publishing the Apps -> RoundUp & Next Steps
+	
