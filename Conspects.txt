@@ -24,3 +24,14 @@ Why Angular + Ionic :
 	1) Complex Logic ( Re-invent the wheel, error prone) ;
 	2) State Management ( UI behaves unpredictably );
 	3) Routing / Different Pages ( Smart routing is hard );
+
+
+Angular Components & Ionic Components :
+	Angular:
+		1) Created by adding @Component() to a class
+		2) Use Angular templates -> Angular does the actual DOM rendering
+		3) Only isable inside of other Angular components / in an Angular app
+	Ionic:
+		1) Ships with pre-built components , not editable by you;
+		2) Use native web technologies => Web Component specification;
+		3) Can be used anywhere , where HTML elements can be used;
