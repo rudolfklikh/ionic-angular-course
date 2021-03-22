@@ -9,4 +9,18 @@ RoadMap:
 	Angular Refresher -> Ionic Component Basics -> Ionic + Angular -> Building Native Apps with Capacitor -> Debugging Ionic Apps ->
 	Navigation & Routing -> Component Overview -> Styling & Theming -> Handling User Input -> Managing State -> Sending Http Requests ->
 	Adding Google Maps -> Native Device Features ( Camera, Location ) -> Authentication -> Publishing the Apps -> RoundUp & Next Steps
-	
+						
+									
+		
+
+								Ionic Component Basics
+* UI components.
+	Core Components Types: 
+		1) Output. ( ion-img, ion-badge );
+		2) Layout. ( ion-grid , ion-col, ion-list );
+		3) Input. ( ion-button, ion-input );
+
+Why Angular + Ionic : 
+	1) Complex Logic ( Re-invent the wheel, error prone) ;
+	2) State Management ( UI behaves unpredictably );
+	3) Routing / Different Pages ( Smart routing is hard );
